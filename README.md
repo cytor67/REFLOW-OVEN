@@ -17,3 +17,5 @@ PS put the BOM.CSV into LSCS Bom Tool to make component ordering quick and easy 
 
 
 I should mention this my first time doing a PCB design so please check everything before ordering and please help me make this project even better :) 
+
+BY downloading and making this project you agree that I am not liable for any damages caused if something goes wrong 
