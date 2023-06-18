@@ -2,10 +2,13 @@
  ToastySMD Reflow Oven
 Open Source Reflow Oven Controller 
 
+This is inspired by Vulcaman Reflow Oven Project
 
-A all in one STM32 based reflow controller powered by STM32F103C8T6 Blue Pill. A moden Reflow Oven Controller that has a connector for a  thermocouple sensor like the  MAX6675 from Maxim, The Board  only uses THT parts with the exception of a optional buzzer. The board is powered from a VTX-214-005-105 AC-DC Converter that outputs 
- 5V at 1.5 Amps. All you need is an external Solid State Relay (SSR) (rated accordingly to your oven), K type thermocouple ,an oven
-,a Nexton 3.5" Display (they are around £30 on ebay) and a 5V to 3.3V Logic converter for the display . 
+His Instructables Link  https://www.instructables.com/DIY-REFLOW-OVEN/
+
+An all in one STM32-based reflow controller powered by STM32F103C8T6 Blue Pill. A moden Reflow Oven Controller that has a connector for a  thermocouple sensor like the  MAX6675 from Maxim, The Board  only uses THT parts with the exception of an optional buzzer. The board is powered by a VTX-214-005-105 AC-DC Converter that outputs 
+ 5V at 1.5 Amps. All you need is an external Solid State Relay (SSR) (rated accordingly to your oven), K type thermocouple,an oven
+,a Nexton 3.5" Display (they are around £30 on eBay) and a 5V to 3.3V Logic converter for the display. 
 
 
 
